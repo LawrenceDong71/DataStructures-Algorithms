@@ -1,13 +1,3 @@
-/*  Student information for assignment:
-*
-*  On my honor, Lawrence Dong, this programming assignment is my own work
-*  and I have not provided this code to any other student.
-*
-*  UTEID: lrd2265
-*  email address: lawrencerdong@gmail.com
-*  Number of slip days I am using: 0
-*/
-
 import java.util.ArrayList;
 
 public class NameRecord implements Comparable<NameRecord> {
