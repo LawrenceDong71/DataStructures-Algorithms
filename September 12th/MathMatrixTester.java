@@ -1,17 +1,6 @@
 import java.util.Random;
 
-/*  Student information for assignment:
- *
- *  UTEID: lrd2265
- *  email address: lawrencerdong@gmail.com
- *  Grader name: Jyotsna Arunkumar
- *  Number of slip days I am using: 0
- */
-
-
-
-/* CS314 Students. Put your experiment results and
- * answers to questions here.
+/* 
  * Experiment 1 Results
  * Initial Dimensions: 550 by 550. Time: ~1.39 seconds
  * Doubled Dimensions: 1100 by 1100. Time: ~ 4.81 seconds
