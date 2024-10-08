@@ -1,0 +1,11 @@
+10
+3 5 0 aeiou
+4 6 1 xyzabc
+5 7 2 aeioutr
+6 10 0 aeiouxynbz
+7 15 2 mnpqrstvwx
+8 12 1 gfhijklzqw
+9 9 0 aeipqrstu
+10 20 1 xyzlmnopqrtwvs
+5 5 0 aeiou
+4 3 2 eaio
