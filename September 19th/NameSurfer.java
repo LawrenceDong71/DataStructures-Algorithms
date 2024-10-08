@@ -1,17 +1,3 @@
-/*
- * Student information for assignment: Replace <NAME> in the following with your
- * name. You are stating, on your honor you did not copy any other code on this
- * assignment and have not provided your code to anyone.
- *
- * On my honor, Lawrence Dong, this programming assignment is my own work
- * and I have not provided this code
- * to any other student.
- *
- * UTEID: lrd2265
- * email address: lawrencerdong@gmail.com
- * Number of slip days I am using: 0
- */
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
