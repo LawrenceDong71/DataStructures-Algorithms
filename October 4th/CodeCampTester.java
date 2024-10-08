@@ -6,18 +6,6 @@ import java.util.Random;
 // CodeCamp.java - CS314 Assignment 1 - Tester class
 
 /*
- * Student information for assignment: 
- * Name: Lawrence Dong
- * email address: lawrencerdong@gmail.com
- * UTEID: lrd2265
- * Section 5 digit ID: 50255
- * Grader name: Jyotsna Arunkumar
- * Number of slip days used on this assignment: 0
- */
-
-/*
- * CS314 Students: place results of shared birthdays experiments in this
- * comment.
 Based on my experiment, it takes at least 23 people to have a 50% chance of there
 being one or more shared birthdays
 Num people: 2, number of experiments with one or more shared birthday: 123, percentage: 0.25
