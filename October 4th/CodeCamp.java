@@ -1,20 +1,4 @@
 //  CodeCamp.java - CS314 Assignment 1
-
-/*  Student information for assignment:
- *
- *  replace <NAME> with your name.
- *
- *  On my honor, Lawrence Dong, this programming assignment is my own work
- *  and I have not provided this code to any other student.
- *
- *  Name: Lawrence Dong
- *  email address:lawrencerdong@gmail.com	
- *  UTEID: lrd2265
- *  Section 5 digit ID: 50255
- *  Grader name: Jyotsna Arunkumar
- *  Number of slip days used on this assignment: 0
- */
-
 public class CodeCamp {
 
     /**
