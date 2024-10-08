@@ -1,16 +1,3 @@
-/*  Student information for assignment:
- *
- *  On my honor, Lawrence Dong, this programming assignment is my own work
- *  and I have not provided this code to any other student.
- *
- *  Name: Lawrence Dong
- *  email address: lawrencerdong@gmail.com
- *  UTEID: lrd2265
- *  Section 5 digit ID: 50255
- *  Grader name: Jyotsna Arunkumar
- *  Number of slip days used on this assignment: 0
- */
-
 // add imports as necessary
 import java.util.Map;
 import java.util.Set;
